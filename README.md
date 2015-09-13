@@ -11,4 +11,8 @@ You can view "inception.ipynb" directly on github, or clone the
 repository, install dependencies listed in the notebook and play with code
 locally.
 
+You may also be intersted in the [Multibox](https://github.com/google/multibox)
+approach that uses the Inception architecture for object detection, also
+available on github.
+
 Disclaimer: this is not an official Google product (experimental or otherwise).
